@@ -1,0 +1,132 @@
+/*h1{
+    color:rgb(13, 0, 255);
+}
+body{
+    background-color: rgb(191,34,115);
+}*/
+/*
+*{
+    color:pink;
+}
+h1{
+    background-color:#0000ff;
+}
+#headingone{
+    color: red;
+}
+#headingtwo{
+    color: yellow;
+}
+.myclass{
+    background-color: black;
+}*/
+/* #box{
+    background-color: blue;
+} */
+ /* .myclass{
+    color: red;
+ } */
+/* button{
+    background-color: green;
+} */
+ /* p{
+    text-align:center;
+    text-decoration: red wavy underline;
+ } */
+  /* .one{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  } */
+/* *{
+    font-family: "this is new roman";
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+} */
+/* .one{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    border-radius: 15px;
+    border-color: black;
+    padding-left:25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    margin: 50px 50px 50px 50px;
+} */
+ /* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    
+ } */
+ /* div{
+    height: 400px;
+    width: 130px;
+    border-color: black;
+    border: 2px;
+    .red{
+        height: 100px;
+        width: 120px;
+        background-color: red;
+        border-radius: 50%;
+
+
+    
+        
+    }
+    .green{
+        height: 100px;
+        width: 120px;
+        background-color:green;
+        border-radius: 50%;
+
+
+    }
+    .yellow{
+        height: 100px;
+        width: 120px;
+        background-color: yellow;
+        border-radius: 50%;
+        
+    }
+    border: 2px solid black;
+
+ } */
+/* *{
+    padding: 0;
+    margin: 0;
+    color: white;
+} */
+/* #navbar{
+    height:60px;
+    background-color: #0f1111; 
+
+}
+button{
+    background-color: rgb(186, 137, 74);
+}
+#logo{
+    color: rgb(192, 125, 38);
+}
+a{
+    margin-right: 200px;
+} */
+div{
+    background-color: rgb(199, 122, 21);
+    display: inline;
+}
+button{
+    background-color: rgb(11, 74, 128);
+    padding-left: 10px;
+    padding-top: 20px;
+    display: block;
+}

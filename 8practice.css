@@ -1,0 +1,18 @@
+.loader{
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    border:20px solid #4fc04f;
+    border-top: 10px solid rgb(41, 81, 116);
+    animation:search 2s ease-in 0s infinite normal; 
+    
+}
+@keyframes search {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+    
+}
