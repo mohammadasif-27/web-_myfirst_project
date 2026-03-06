@@ -8,13 +8,53 @@ body{
 }
 .container{
     height: 70vh;
+       display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
 
 }
 .game{
    height:60vmin;
    width: 60vmin;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   gap: 1.5vmin;
 }
 .box{
     height: 18vmin;
     width : 18vmin;
+    border-radius: 1rem;
+    box-shadow:0 0 1rem black ;
+    font-size: 9vmin;
+    color: brown;
+    background-color: antiquewhite;
+}
+#resert {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color:black ;
+    color: rgb(165, 137, 101);
+    border-radius: 1cm;
+    border: none;
+}
+#new-btn{
+        padding: 1rem;
+    font-size: 1.25rem;
+    background-color:black ;
+    color: rgb(217, 213, 208);
+    border-radius: 1cm;
+    border: none;
+}
+#msg{
+    color: aliceblue;
+    font-size:8vmin;
+}
+.msg-container{
+    height: 30vmin;
+}
+.hide{
+    display: none;
 }
